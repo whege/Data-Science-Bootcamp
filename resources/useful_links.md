@@ -5,3 +5,4 @@ Links to articles I referenced myself in building this course, or articles that 
 - [How to build a strong portfolio](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
 - [Key Machine Learning terms](https://www.kdnuggets.com/2016/05/machine-learning-key-terms-explained.html)
 - [Data Science careers explained](https://www.kdnuggets.com/2021/05/data-scientist-data-engineer-data-careers-explained.html)
+- [Planning a ML project](https://www.kdnuggets.com/2022/05/4-steps-managing-data-science-project.html)
